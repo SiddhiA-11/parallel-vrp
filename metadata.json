@@ -1,0 +1,6 @@
+{
+  "name": "Parallel VRP Laboratory",
+  "description": "Parallel Vehicle Routing and Delivery Route Optimization using Sequential, OpenMP, MPI, and CUDA architectures with interactive benchmarking, route visualization, and experimental analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
